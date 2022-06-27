@@ -1,5 +1,5 @@
 # :mag_right: 불량 객체 탐지 프로그램 개발
-
+<img src="https://user-images.githubusercontent.com/96769060/175932758-dcbdba0b-21da-47e5-bfa7-3c88d407162c.png" width="750">  
 YOLO v5를 이용한 다양한 객체 검출 알고리즘의 활용법 중 '제품의 불량 여부를 탐지하고 결함의 종류를 파악하는 솔루션'을 개발하였습니다.  
 
 기업 연계 과제이기 때문에 데이터셋에 관한 자세한 정보는 생략하고, 전반적인 솔루션 개발 과정과 시행 착오, 기대가치 등을 담은 발표 자료로 내용을 대신합니다.
@@ -22,7 +22,7 @@ YOLO v5를 이용한 다양한 객체 검출 알고리즘의 활용법 중 '제�
 
 
 ### 1. 프로젝트 기획 배경
-<img src="" width="750">  
+<img src="https://user-images.githubusercontent.com/96769060/175933027-a939b408-21e5-4e03-8c31-1139191cce55.png" width="750">  
 
   - 언택트 시대의 가속화 → 제품의 수요 크게 상승
   - 현재 해당 산업의 구인난은 옛날부터 꾸준히 이어져 온 난제
@@ -39,7 +39,7 @@ YOLO v5를 이용한 다양한 객체 검출 알고리즘의 활용법 중 '제�
 
 
 ### 2. 데이터 분석 및 모델 개발
-<img src="" width="750">  
+<img src="https://user-images.githubusercontent.com/96769060/175933189-b3e23d4f-2e48-4512-8652-71b381b241a0.png" width="750">  
 
 <img src="" width="750">  
 
