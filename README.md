@@ -14,11 +14,11 @@ YOLO v5를 이용한 다양한 객체 검출 알고리즘의 활용법 중 '제�
 <br>
 
 ## 목차
-[1. 프로젝트 기획 배경]()
+[1. 프로젝트 기획 배경](https://github.com/JadeWednesday/CAKD5_2nd_Project/blob/main/README.md#1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EB%B0%B0%EA%B2%BD)
 <br>
-[2. 데이터 분석 및 모델 개발]()
+[2. 데이터 분석 및 모델 개발](https://github.com/JadeWednesday/CAKD5_2nd_Project/blob/main/README.md#2-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EB%B0%8F-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C)
 <br>
-[3. 기대가치 정리]()
+[3. 기대가치 정리](https://github.com/JadeWednesday/CAKD5_2nd_Project/blob/main/README.md#3-%EA%B8%B0%EB%8C%80%EA%B0%80%EC%B9%98-%EC%A0%95%EB%A6%AC)
 
 
 ### 1. 프로젝트 기획 배경
