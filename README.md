@@ -1,4 +1,4 @@
-# :mag_right: 불량 객체 탐지 프로그램 개발 ()
+# :mag_right: 불량 객체 탐지 프로그램 개발 (수정중)
 <img src="https://user-images.githubusercontent.com/96769060/175932758-dcbdba0b-21da-47e5-bfa7-3c88d407162c.png" width="750">  
 YOLO v5를 이용한 다양한 객체 검출 알고리즘의 활용법 중 '제품의 불량 여부를 탐지하고 결함의 종류를 파악하는 솔루션'을 개발하였습니다.  
 
