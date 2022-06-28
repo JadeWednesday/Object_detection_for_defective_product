@@ -20,7 +20,7 @@ YOLO v5를 이용한 다양한 객체 검출 알고리즘의 활용법 중 '제�
 <br>
 [3. 기대가치 정리](https://github.com/JadeWednesday/CAKD5_2nd_Project/blob/main/README.md#3-%EA%B8%B0%EB%8C%80%EA%B0%80%EC%B9%98-%EC%A0%95%EB%A6%AC)
 <br>
-[4. Web Application 사용 방법]()
+[4. Web Application 사용 방법](https://github.com/JadeWednesday/CAKD5_2nd_Project/blob/main/README.md#4-web-application-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
 
 
 ### 1. 프로젝트 기획 배경
