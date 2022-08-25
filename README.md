@@ -1,5 +1,5 @@
 # :mag_right: 불량 객체 탐지 프로그램 개발
-<img src="https://user-images.githubusercontent.com/96769060/175932758-dcbdba0b-21da-47e5-bfa7-3c88d407162c.png" width="750">  
+<img src="https://user-images.githubusercontent.com/96769060/186695686-b755e683-eed9-47af-b3f2-afb33ed8f5fc.png" width="750">  
 YOLO v5를 이용한 다양한 객체 검출 알고리즘의 활용법 중 '제품의 불량 여부를 탐지하고 결함의 종류를 파악하는 솔루션'을 개발하였습니다.  
 
 기업 연계 과제이기 때문에 데이터셋에 관한 자세한 정보는 공개할 수 없지만, 전반적인 솔루션 개발 과정과 시행 착오, 기대가치 등을 담은 발표 자료로 내용을 대신합니다.
@@ -8,7 +8,7 @@ YOLO v5를 이용한 다양한 객체 검출 알고리즘의 활용법 중 '제�
 
 ## 프로젝트 세부사항
   - 수행 기간: 22/04/11 ~ 22/05/06 (총 4주)
-  - 수행 인원: KDT 수강생 6명 ([`용지영`](https://github.com/djy00) [`김재경`](https://github.com/rmadmswk) [`어정호`](https://github.com/fish-ho) [`이재우`](https://github.com/leedaedoo2) [`정현우`](https://github.com/HyeonuJeong) [`최지원`](https://github.com/JadeWednesday))
+  - 수행 인원: KDT 수강생 6명 ([`최지원`](https://github.com/JadeWednesday) [`용지영`](https://github.com/djy00) [`김재경`](https://github.com/rmadmswk) [`어정호`](https://github.com/fish-ho) [`이재우`](https://github.com/leedaedoo2) [`정현우`](https://github.com/HyeonuJeong))
   - 수행 역할: (개인) 객체 검출 알고리즘 간 비교 및 분석, 데이터셋 가공, 최적 파라미터 설정, 발표 및 PPT 제작
   - 개발 환경: <img src ="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white"/> <img src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?style=flat&logo=Google Colab&logoColor=white"/> <img src ="https://img.shields.io/badge/VS Code-007ACC.svg?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src ="https://img.shields.io/badge/Flask-282828.svg?style=flat&logo=Flask&logoColor=white"/> <img src ="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=HTML5&logoColor=white"/> <img src ="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=CSS3&logoColor=white"/> <img src ="https://img.shields.io/badge/OpenCV-eb4b4b.svg?style=flat&logo=OpenCV&logoColor=white"/> <img src ="https://img.shields.io/badge/Roboflow-6a06ce.svg?style=flat"/>
 <br>
